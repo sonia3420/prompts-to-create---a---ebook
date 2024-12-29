@@ -19,10 +19,10 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ChatGPT：
 Ação         	prompt
 
-Título        crie um título de um EBOOK que vai tratar de soluções CAIXA para os gestores públicos municipais, uma parceria 
+Título:        crie um título de um EBOOK que vai tratar de soluções CAIXA para os gestores públicos municipais, uma parceria 
               indispensável ao desenvolvimento do município, o título deve ser curto e motivador, me liste 06 variações de títulos
               
-Conteúdo      Faça um texto para ebook com foco nos produtos e serviços oferecidos pela CAIXA que possam auxiliar os gestores municipais 
+Conteúdo:      Faça um texto para ebook com foco nos produtos e serviços oferecidos pela CAIXA que possam auxiliar os gestores municipais 
               com soluções para os problemas dos municípios
               
  (Regras)
@@ -39,7 +39,7 @@ Midjourney：
 
 Ação	   prompt
 
-Título  two diferents hands supporting some buildings
+Título:  two diferents hands supporting some buildings
 
 ✨ Features
 
